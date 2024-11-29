@@ -4,12 +4,6 @@ export default function App() {
   return (
     <div>
       <div className="max-w-7xl mx-auto p-4">
-        <div className="pt-20 flex gap-4 justify-center items-center text-4xl">
-          <h1 className=" bg-clip-text text-center text-transparent bg-gradient-to-r from-teal-500 to-teal-400 font-bold">
-            Portfolio : under construction{" "}
-          </h1>
-          <h1> 🚧</h1>
-        </div>
         <div className="min-h-screen grid place-content-center p-8 font-sans ">
           <motion.div
             initial={{
